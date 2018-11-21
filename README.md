@@ -1,1 +1,2 @@
-# C6P2
+# Chapter 6
+## Program 2
